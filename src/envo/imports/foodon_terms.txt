@@ -231,3 +231,9 @@ http://purl.obolibrary.org/obo/FOODON_00001052 # amasake
 http://purl.obolibrary.org/obo/FOODON_00001184 # algal food product
 http://purl.obolibrary.org/obo/FOODON_00001021 # acifified beer wort
 http://purl.obolibrary.org/obo/FOODON_00001037 # Vacherin Mont d'Or
+http://purl.obolibrary.org/obo/FOODON_00001158 # apple fruit product
+http://purl.obolibrary.org/obo/FOODON_00001028 # brie cheese
+http://purl.obolibrary.org/obo/FOODON_00001025 # camembert cheese
+http://purl.obolibrary.org/obo/FOODON_00001033 # emmenthal cheese
+http://purl.obolibrary.org/obo/FOODON_00001029 # gouda cheese
+http://purl.obolibrary.org/obo/FOODON_00001030 # halloumi cheese
